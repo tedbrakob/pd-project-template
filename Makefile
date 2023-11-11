@@ -2,7 +2,7 @@
 
 PDC_PATH="$(PLAYDATE_SDK_PATH)/bin/pdc"
 SIMULATOR_PATH="$(PLAYDATE_SDK_PATH)/bin/Playdate Simulator.app"
-OUTPUT_PATH="./bin/quandino.pdx"
+OUTPUT_PATH="./bin/output.pdx"
 PDCFLAGS=
 
 main:

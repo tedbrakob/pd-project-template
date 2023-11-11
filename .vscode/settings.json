@@ -1,6 +1,6 @@
 {
     "playdate.source": "source",
-    "playdate.output": "bin/quandino.pdx",
+    "playdate.output": "bin/output.pdx",
     "Lua.diagnostics.globals": [
         "playdate", "import"
     ],

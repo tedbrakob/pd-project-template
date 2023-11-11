@@ -1,4 +1,4 @@
-#Project Template
+# Project Template
 
 ## Build via Make File
 - Execute `make` in the project directory to build the project
@@ -9,4 +9,4 @@
 - Assign a keyboard shortcut to the Run Without Debugging option to build and run with a keypress.
 
 ## Output
-- Build files get output to `bin/quandino.pdx`.
+- Build files get output to `bin/output.pdx`.
